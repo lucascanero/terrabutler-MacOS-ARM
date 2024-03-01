@@ -2,7 +2,7 @@
 
 <img src="docs/assets/logo.png" align="center"/>
 
-# Terrabutler
+# Terrabutler for MacOS (Apple Silicon)
 
 **The utility that helps keeping your IaC in one piece**
 
